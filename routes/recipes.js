@@ -6,7 +6,6 @@ const jsonschema = require("jsonschema");
 
 const express = require("express");
 const { BadRequestError } = require("../expressError");
-const { ensureAdmin } = require("../middleware/auth");
 const Recipe = require("../models/recipe");
 const recipeSearchSchema = require("../schemas/recipeSearch.json");
 const recipeNewSchema = require("../schemas/recipeNew.json");
