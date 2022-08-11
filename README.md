@@ -1,4 +1,4 @@
 # whattoeat-backend
 
-[CLICK HERE!](https://whattoeat-jmjenna.herokuapp.com)
+[CLICK HERE!](https://whattocook-backend.herokuapp.com)
 <p> Backend is deployed by heroku </p>
